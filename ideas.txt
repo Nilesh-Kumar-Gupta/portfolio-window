@@ -1,0 +1,2 @@
+scroll to the side like a desktop environment
+expand div with a smooth animation

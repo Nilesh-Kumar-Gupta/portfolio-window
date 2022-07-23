@@ -1,13 +1,9 @@
-import NameCard from "../components/NameCard";
-import Navbar from "../components/Navbar";
+import App from "../components/App";
 
 export default function Home() {
   return (
     <div className="root">
-      <Navbar />
-      <div className="container">
-        <NameCard />
-      </div>
+      <App />
     </div>
   );
 }
